@@ -1,5 +1,3 @@
-# GAN-for-Financial-Fraud-Detection
-
 
 # General Adversarial Networks (GANs) for Financial Fraud Detection
 
